@@ -2,22 +2,6 @@
 
 This repository provides a comprehensive exploration of the various tokenization algorithms available in the Hugging Face `tokenizers` library. It aims to serve as both a learning resource and a practical toolkit for experimenting with different tokenization approaches.
 
-## 📋 Table of Contents
-
-- [Introduction](#introduction)
-- [Tokenizer Types](#tokenizer-types)
-  - [Byte-Pair Encoding (BPE)](#byte-pair-encoding-bpe)
-  - [WordPiece](#wordpiece)
-  - [Unigram](#unigram) 
-  - [SentencePiece](#sentencepiece)
-  - [Character-Based](#character-based)
-- [Repository Structure](#repository-structure)
-- [Getting Started](#getting-started)
-- [Experiments](#experiments)
-- [Analysis Tools](#analysis-tools)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## 🌟 Introduction
 
 Tokenization is a fundamental preprocessing step in Natural Language Processing (NLP) that involves splitting text into smaller units called tokens. The choice of tokenization strategy significantly impacts the performance of downstream NLP tasks such as text classification, machine translation, question answering, and more.
